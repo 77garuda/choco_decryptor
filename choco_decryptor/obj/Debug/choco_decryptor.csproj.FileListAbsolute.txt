@@ -1,0 +1,7 @@
+D:\Apps\Offensive\choco_decryptor\choco_decryptor\bin\Debug\choco_decryptor.exe.config
+D:\Apps\Offensive\choco_decryptor\choco_decryptor\bin\Debug\choco_decryptor.exe
+D:\Apps\Offensive\choco_decryptor\choco_decryptor\bin\Debug\choco_decryptor.pdb
+D:\Apps\Offensive\choco_decryptor\choco_decryptor\obj\Debug\choco_decryptor.csproj.AssemblyReference.cache
+D:\Apps\Offensive\choco_decryptor\choco_decryptor\obj\Debug\choco_decryptor.csproj.CoreCompileInputs.cache
+D:\Apps\Offensive\choco_decryptor\choco_decryptor\obj\Debug\choco_decryptor.exe
+D:\Apps\Offensive\choco_decryptor\choco_decryptor\obj\Debug\choco_decryptor.pdb
