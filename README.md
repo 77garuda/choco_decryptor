@@ -9,7 +9,7 @@ You must have read access to chocolatey.config and don't need for administrative
 # Warning
 ```
 Because chocolatey using DPAPI Machine key as the part of enctryption process material, 
-you must run this tool inside machine, where config was made.
+you must run this tool from machine, where the config was made.
 ```
 
 !["Demonstration"](img.png)
