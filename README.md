@@ -8,4 +8,4 @@ Because chocolatey using DPAPI Machine key as the part of enctryption process ma
 you must run this tool inside machine, where config was made.
 ```
 
-!["Demonstration"]([./img.png])
+!["Demonstration"](img.png)
